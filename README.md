@@ -1,4 +1,4 @@
-<div style="text-align: right"> your-text-here </div>
+<p align='right'>Farhan Khan</p>
 
 # myNoteBook: Carnet de note sur mes expérimentations
 
