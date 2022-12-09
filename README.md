@@ -1,10 +1,8 @@
-# myNoteBook
-
-# Carnet de note sur mes expérimentations
+# myNoteBook: Carnet de note sur mes expérimentations
 
 ## Exéprimentations CLOUD
 
-- [Utiliser OCI](cloud/oci.md)
+- [provisionning d'infraststructure]
 
 ## Expérimentations Spring CLOUD
 
