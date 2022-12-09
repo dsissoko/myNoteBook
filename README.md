@@ -2,4 +2,4 @@
 
 Carnet de note sur mes expérimentations
 
-[Utiliser OCI](cloud/OCI.md)
+[Utiliser OCI](cloud/oci.md)
