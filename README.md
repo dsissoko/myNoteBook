@@ -1,4 +1,5 @@
-<p align='right'>Farhan Khan</p>
+
+[<p align='right'>![pages-build-deployment</p>](https://github.com/dsissoko/myNoteBook/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dsissoko/myNoteBook/actions/workflows/pages/pages-build-deployment)
 
 # myNoteBook: Carnet de note sur mes expérimentations
 
